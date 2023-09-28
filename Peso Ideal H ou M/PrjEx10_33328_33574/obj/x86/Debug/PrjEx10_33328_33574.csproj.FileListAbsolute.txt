@@ -1,0 +1,6 @@
+C:\Users\33328\Desktop\PrjEx10_33328_33574\PrjEx10_33328_33574\bin\Debug\PrjEx10_33328_33574.exe
+C:\Users\33328\Desktop\PrjEx10_33328_33574\PrjEx10_33328_33574\bin\Debug\PrjEx10_33328_33574.pdb
+C:\Users\33328\Desktop\PrjEx10_33328_33574\PrjEx10_33328_33574\obj\x86\Debug\PrjEx10_33328_33574.exe
+C:\Users\33328\Desktop\PrjEx10_33328_33574\PrjEx10_33328_33574\obj\x86\Debug\PrjEx10_33328_33574.pdb
+T:\Entregas\LPR - Leguth\Turma B\LPR_EX_01_13\Nichollas Farias - 33574\PrjEx10_33328_33574\PrjEx10_33328_33574\obj\x86\Debug\PrjEx10_33328_33574.exe
+T:\Entregas\LPR - Leguth\Turma B\LPR_EX_01_13\Nichollas Farias - 33574\PrjEx10_33328_33574\PrjEx10_33328_33574\obj\x86\Debug\PrjEx10_33328_33574.pdb

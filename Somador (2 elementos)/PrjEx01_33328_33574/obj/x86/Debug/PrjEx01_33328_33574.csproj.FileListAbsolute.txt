@@ -1,0 +1,4 @@
+D:\Só pra ver se vai excluir\PrjEx01_33328_33574\PrjEx01_33328_33574\bin\Debug\PrjEx01_33328_33574.exe
+D:\Só pra ver se vai excluir\PrjEx01_33328_33574\PrjEx01_33328_33574\bin\Debug\PrjEx01_33328_33574.pdb
+D:\Só pra ver se vai excluir\PrjEx01_33328_33574\PrjEx01_33328_33574\obj\x86\Debug\PrjEx01_33328_33574.exe
+D:\Só pra ver se vai excluir\PrjEx01_33328_33574\PrjEx01_33328_33574\obj\x86\Debug\PrjEx01_33328_33574.pdb

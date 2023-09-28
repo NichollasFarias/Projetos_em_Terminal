@@ -1,0 +1,10 @@
+c:\users\33574\documents\visual studio 2010\Projects\PrjEx01_33328_33574\PrjEx01_33328_33574\bin\Debug\PrjEx01_33328_33574.exe
+c:\users\33574\documents\visual studio 2010\Projects\PrjEx01_33328_33574\PrjEx01_33328_33574\bin\Debug\PrjEx01_33328_33574.pdb
+c:\users\33574\documents\visual studio 2010\Projects\PrjEx01_33328_33574\PrjEx01_33328_33574\obj\x86\Debug\PrjEx01_33328_33574.exe
+c:\users\33574\documents\visual studio 2010\Projects\PrjEx01_33328_33574\PrjEx01_33328_33574\obj\x86\Debug\PrjEx01_33328_33574.pdb
+I:\Ex Leguth 4_9\PrjEx01_33328_33574\PrjEx01_33328_33574\obj\x86\Debug\PrjEx01_33328_33574.exe
+I:\Ex Leguth 4_9\PrjEx01_33328_33574\PrjEx01_33328_33574\obj\x86\Debug\PrjEx01_33328_33574.pdb
+I:\Ex Leguth 4_9\PrjEx01_33328_33574\PrjEx01_33328_33574\bin\Debug\PrjEx01_33328_33574.exe
+I:\Ex Leguth 4_9\PrjEx01_33328_33574\PrjEx01_33328_33574\bin\Debug\PrjEx01_33328_33574.pdb
+I:\Aulas\Leguth\Projetos 02\PrjEx01_33328_33574\PrjEx01_33328_33574\obj\x86\Debug\PrjEx01_33328_33574.exe
+I:\Aulas\Leguth\Projetos 02\PrjEx01_33328_33574\PrjEx01_33328_33574\obj\x86\Debug\PrjEx01_33328_33574.pdb
