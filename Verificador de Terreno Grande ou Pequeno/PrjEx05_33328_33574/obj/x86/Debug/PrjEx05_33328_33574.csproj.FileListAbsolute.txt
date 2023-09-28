@@ -1,0 +1,6 @@
+I:\Ex Leguth 4_9\PrjEx05_33328_33574\PrjEx05_33328_33574\bin\Debug\PrjEx05_33328_33574.exe
+I:\Ex Leguth 4_9\PrjEx05_33328_33574\PrjEx05_33328_33574\bin\Debug\PrjEx05_33328_33574.pdb
+I:\Ex Leguth 4_9\PrjEx05_33328_33574\PrjEx05_33328_33574\obj\x86\Debug\PrjEx05_33328_33574.exe
+I:\Ex Leguth 4_9\PrjEx05_33328_33574\PrjEx05_33328_33574\obj\x86\Debug\PrjEx05_33328_33574.pdb
+I:\Aulas\Leguth\Projetos 02\PrjEx05_33328_33574\PrjEx05_33328_33574\obj\x86\Debug\PrjEx05_33328_33574.exe
+I:\Aulas\Leguth\Projetos 02\PrjEx05_33328_33574\PrjEx05_33328_33574\obj\x86\Debug\PrjEx05_33328_33574.pdb
