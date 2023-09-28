@@ -1,0 +1,6 @@
+U:\Etec\Leguth\PrjEx12_33328_33574\PrjEx12_33328_33574\bin\Debug\PrjEx12_33328_33574.exe
+U:\Etec\Leguth\PrjEx12_33328_33574\PrjEx12_33328_33574\bin\Debug\PrjEx12_33328_33574.pdb
+U:\Etec\Leguth\PrjEx12_33328_33574\PrjEx12_33328_33574\obj\x86\Debug\PrjEx12_33328_33574.exe
+U:\Etec\Leguth\PrjEx12_33328_33574\PrjEx12_33328_33574\obj\x86\Debug\PrjEx12_33328_33574.pdb
+I:\Etec\Aulas\Leguth\Projetos 02\PrjEx12_33328_33574\PrjEx12_33328_33574\obj\x86\Debug\PrjEx12_33328_33574.exe
+I:\Etec\Aulas\Leguth\Projetos 02\PrjEx12_33328_33574\PrjEx12_33328_33574\obj\x86\Debug\PrjEx12_33328_33574.pdb

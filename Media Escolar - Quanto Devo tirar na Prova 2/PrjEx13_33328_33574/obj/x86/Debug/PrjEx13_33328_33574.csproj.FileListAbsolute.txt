@@ -1,0 +1,4 @@
+U:\Etec\Leguth\PrjEx13_33328_33574\PrjEx13_33328_33574\bin\Debug\PrjEx13_33328_33574.exe
+U:\Etec\Leguth\PrjEx13_33328_33574\PrjEx13_33328_33574\bin\Debug\PrjEx13_33328_33574.pdb
+U:\Etec\Leguth\PrjEx13_33328_33574\PrjEx13_33328_33574\obj\x86\Debug\PrjEx13_33328_33574.exe
+U:\Etec\Leguth\PrjEx13_33328_33574\PrjEx13_33328_33574\obj\x86\Debug\PrjEx13_33328_33574.pdb

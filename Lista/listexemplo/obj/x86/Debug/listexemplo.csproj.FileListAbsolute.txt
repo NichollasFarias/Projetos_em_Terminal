@@ -1,0 +1,4 @@
+C:\Users\nicho\OneDrive\Área de Trabalho\listexemplo\listexemplo\bin\Debug\listexemplo.exe
+C:\Users\nicho\OneDrive\Área de Trabalho\listexemplo\listexemplo\bin\Debug\listexemplo.pdb
+C:\Users\nicho\OneDrive\Área de Trabalho\listexemplo\listexemplo\obj\x86\Debug\listexemplo.exe
+C:\Users\nicho\OneDrive\Área de Trabalho\listexemplo\listexemplo\obj\x86\Debug\listexemplo.pdb

@@ -1,0 +1,6 @@
+D:\Só pra ver se vai excluir\PrjEx03_33328_33574\PrjEx03_33328_33574\bin\Debug\PrjEx03_33328_33574.exe
+D:\Só pra ver se vai excluir\PrjEx03_33328_33574\PrjEx03_33328_33574\bin\Debug\PrjEx03_33328_33574.pdb
+D:\Só pra ver se vai excluir\PrjEx03_33328_33574\PrjEx03_33328_33574\obj\x86\Debug\PrjEx03_33328_33574.exe
+D:\Só pra ver se vai excluir\PrjEx03_33328_33574\PrjEx03_33328_33574\obj\x86\Debug\PrjEx03_33328_33574.pdb
+I:\Aulas\Leguth\Aula Leguth 07_08\33574\PrjEx03_33328_33574\PrjEx03_33328_33574\obj\x86\Debug\PrjEx03_33328_33574.exe
+I:\Aulas\Leguth\Aula Leguth 07_08\33574\PrjEx03_33328_33574\PrjEx03_33328_33574\obj\x86\Debug\PrjEx03_33328_33574.pdb
